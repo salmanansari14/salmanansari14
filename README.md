@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... my own project called Social Media App
 - 🌱 I’m currently learning ... merstack
 - 💬 Ask me about ...
 - 📫 How to reach me: ... https://www.linkedin.com/in/salmanansari14/
